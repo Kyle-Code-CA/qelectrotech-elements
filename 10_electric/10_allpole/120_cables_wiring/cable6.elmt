@@ -1,12 +1,12 @@
 <definition version="0.100.0" type="element" link_type="simple" width="60" height="20" hotspot_x="30" hotspot_y="3">
     <uuid uuid="{efc32e23-b58b-4200-1782-17a97163d294}"/>
     <names>
-        <name lang="It">Cavo ? 3G</name>
         <name lang="ca">cable 3G</name>
         <name lang="cs">Kabel 3G</name>
         <name lang="es">Cable 3G</name>
         <name lang="fr">Cable 3G</name>
         <name lang="hu">Kábel 2 + PE</name>
+        <name lang="it">Cavo ? 3G</name>
         <name lang="pl">Przewód trójżyłowy</name>
     </names>
     <informations>Author: The QElectroTech team
