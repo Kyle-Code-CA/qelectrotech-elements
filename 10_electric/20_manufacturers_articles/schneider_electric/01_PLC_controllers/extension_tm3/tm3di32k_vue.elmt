@@ -253,9 +253,9 @@
         <arc height="15" start="90" width="15" y="3.18" x="-3.75" antialias="false" angle="45" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
         <arc height="15" start="180" width="15" y="77.93" x="-3.75" antialias="false" angle="45" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
         <arc height="15" start="270" width="15" y="77.93" x="51.48" antialias="false" angle="45" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <text y="60.62" x="2.3" color="#000000" rotation="270" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="TM3DI32K"/>
+        <text y="60.62" x="2.3" color="#000000" rotation="270" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" text="TM3DI32K"/>
         <line x1="4.78" x2="4.78" y1="8.22" end2="none" y2="88.22" end1="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <dynamic_text uuid="{0f3ccec0-ff26-4ced-8829-9df07355be94}" text_width="-1" text_from="ElementInfo" z="247" y="-20" Valignment="AlignTop" x="-7" Halignment="AlignLeft" rotation="0" frame="false" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false">
+        <dynamic_text uuid="{0f3ccec0-ff26-4ced-8829-9df07355be94}" text_width="-1" text_from="ElementInfo" z="247" y="-20" Valignment="AlignTop" x="-7" Halignment="AlignLeft" rotation="0" frame="false" font="Liberation Sans,7,-1,5,0,0,0,0,0,0,Regular" keep_visual_rotation="false">
             <text></text>
             <info_name>label</info_name>
         </dynamic_text>

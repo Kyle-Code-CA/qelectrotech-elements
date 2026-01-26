@@ -12,49 +12,49 @@
     <informations>License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
     <description>
         <line antialias="false" x1="600" y1="-88" length1="1.5" y2="0" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="600" end2="none"/>
-        <dynamic_text font="Sans Serif,7,-1,5,50,0,0,0,0,0" z="2" frame="false" Valignment="AlignTop" x="8" y="-19" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{8ed51640-1ddb-4f94-a892-cf2b05699590}">
+        <dynamic_text font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" z="2" frame="false" Valignment="AlignTop" x="8" y="-19" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{8ed51640-1ddb-4f94-a892-cf2b05699590}">
             <text>3L+</text>
         </dynamic_text>
-        <dynamic_text font="Sans Serif,7,-1,5,50,0,0,0,0,0" z="4" frame="false" Valignment="AlignTop" x="492" y="-19" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{cfcf691e-1f15-41db-87b3-9faee4157452}">
+        <dynamic_text font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" z="4" frame="false" Valignment="AlignTop" x="492" y="-19" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{cfcf691e-1f15-41db-87b3-9faee4157452}">
             <text>.4</text>
         </dynamic_text>
-        <dynamic_text font="Sans Serif,7,-1,5,50,0,0,0,0,0" z="5" frame="false" Valignment="AlignTop" x="263" y="-43" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{6c7b2e3f-c90e-4501-8032-bf0a6a73a2f6}">
+        <dynamic_text font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" z="5" frame="false" Valignment="AlignTop" x="263" y="-43" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{6c7b2e3f-c90e-4501-8032-bf0a6a73a2f6}">
             <text>24 V DC OUTPUTS</text>
         </dynamic_text>
-        <dynamic_text font="Sans Serif,7,-1,5,50,0,0,0,0,0" z="6" frame="false" Valignment="AlignTop" x="164" y="-31" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{15bfe297-1c39-4aa7-b386-809764540824}">
+        <dynamic_text font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" z="6" frame="false" Valignment="AlignTop" x="164" y="-31" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{15bfe297-1c39-4aa7-b386-809764540824}">
             <text>DO a</text>
         </dynamic_text>
-        <dynamic_text font="Sans Serif,7,-1,5,50,0,0,0,0,0" z="7" frame="false" Valignment="AlignTop" x="332" y="-19" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{912bed36-ab21-4493-b53d-9207377c724e}">
+        <dynamic_text font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" z="7" frame="false" Valignment="AlignTop" x="332" y="-19" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{912bed36-ab21-4493-b53d-9207377c724e}">
             <text>.2</text>
         </dynamic_text>
         <circle antialias="true" x="97.5001" y="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
-        <dynamic_text font="Sans Serif,7,-1,5,50,0,0,0,0,0" z="8" frame="false" Valignment="AlignTop" x="172" y="-19" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{951457c4-ac55-4e9e-8d73-c01adfdfe398}">
+        <dynamic_text font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" z="8" frame="false" Valignment="AlignTop" x="172" y="-19" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{951457c4-ac55-4e9e-8d73-c01adfdfe398}">
             <text>.0</text>
         </dynamic_text>
         <circle antialias="true" x="17.5" y="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
-        <dynamic_text font="Sans Serif,7,-1,5,50,0,0,0,0,0" z="10" frame="false" Valignment="AlignTop" x="90" y="-19" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{a1859680-96b5-470c-824e-5028535fbba2}">
+        <dynamic_text font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" z="10" frame="false" Valignment="AlignTop" x="90" y="-19" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{a1859680-96b5-470c-824e-5028535fbba2}">
             <text>3M</text>
         </dynamic_text>
         <circle antialias="true" x="177.5" y="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
         <polygon x3="5" antialias="true" y6="5" x1="0" y3="-44" y4="-44" x6="0" closed="false" y1="-93" x5="0" y2="-47" style="line-style:normal;line-weight:thin;filling:none;color:black" x4="-5" x2="0" y5="-41"/>
         <line antialias="false" x1="103" y1="0" length1="1.5" y2="0" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="177" end2="none"/>
         <line antialias="false" x1="343" y1="0" length1="1.5" y2="0" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="417" end2="none"/>
-        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" z="16" frame="false" Valignment="AlignTop" x="-17" y="-55" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{d88627a0-95e9-4f35-9908-e2f0d8db9432}">
+        <dynamic_text font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" z="16" frame="false" Valignment="AlignTop" x="-17" y="-55" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{d88627a0-95e9-4f35-9908-e2f0d8db9432}">
             <text>/</text>
         </dynamic_text>
         <circle antialias="true" x="577.5" y="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
         <circle antialias="true" x="497.5" y="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
         <circle antialias="true" x="417.5" y="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
         <circle antialias="true" x="337.5" y="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
-        <dynamic_text font="Sans Serif,7,-1,5,50,0,0,0,0,0" z="22" frame="false" Valignment="AlignTop" x="572" y="-19" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{1a60621f-aafa-44bd-a8e1-9c676c094816}">
+        <dynamic_text font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" z="22" frame="false" Valignment="AlignTop" x="572" y="-19" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{1a60621f-aafa-44bd-a8e1-9c676c094816}">
             <text>.5</text>
         </dynamic_text>
         <line antialias="false" x1="0" y1="0" length1="1.5" y2="0" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="17" end2="none"/>
         <circle antialias="true" x="257.5" y="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
-        <dynamic_text font="Sans Serif,7,-1,5,50,0,0,0,0,0" z="23" frame="false" Valignment="AlignTop" x="412" y="-19" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{91ee2af5-04da-42d0-aeb0-a1cadb9e2e10}">
+        <dynamic_text font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" z="23" frame="false" Valignment="AlignTop" x="412" y="-19" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{91ee2af5-04da-42d0-aeb0-a1cadb9e2e10}">
             <text>.3</text>
         </dynamic_text>
-        <dynamic_text font="Sans Serif,7,-1,5,50,0,0,0,0,0" z="25" frame="false" Valignment="AlignTop" x="252" y="-19" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{7dc32ca3-7da3-445e-bccd-aa87b0fe3e23}">
+        <dynamic_text font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" z="25" frame="false" Valignment="AlignTop" x="252" y="-19" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{7dc32ca3-7da3-445e-bccd-aa87b0fe3e23}">
             <text>.1</text>
         </dynamic_text>
         <line antialias="false" x1="583" y1="0" length1="1.5" y2="0" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="600" end2="none"/>
@@ -65,10 +65,10 @@
         <line antialias="false" x1="0" y1="-88" length1="1.5" y2="-88" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="600" end2="none"/>
         <line antialias="false" x1="23" y1="0" length1="1.5" y2="0" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="97" end2="none"/>
         <polygon x3="10" antialias="false" x1="590" y3="-28" y4="-8" closed="false" y1="-8" y2="-28" style="line-style:normal;line-weight:thin;filling:none;color:black" x4="10" x2="590"/>
-        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" z="43" frame="false" Valignment="AlignTop" x="10" y="-82.5" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{6ded253c-0fd1-421e-b706-cfcc100b835d}">
+        <dynamic_text font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" z="43" frame="false" Valignment="AlignTop" x="10" y="-82.5" Halignment="AlignLeft" rotation="0" text_from="UserText" text_width="-1" uuid="{6ded253c-0fd1-421e-b706-cfcc100b835d}">
             <text>CPU 1212C   DC/DC/DC   part 4/4</text>
         </dynamic_text>
-        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" z="45" frame="false" Valignment="AlignTop" x="170" y="-140" Halignment="AlignLeft" rotation="0" text_from="ElementInfo" text_width="-1" uuid="{a8305165-3053-4d2f-9fb7-d39fd5d7d970}">
+        <dynamic_text font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" z="45" frame="false" Valignment="AlignTop" x="170" y="-140" Halignment="AlignLeft" rotation="0" text_from="ElementInfo" text_width="-1" uuid="{a8305165-3053-4d2f-9fb7-d39fd5d7d970}">
             <text></text>
             <info_name>label</info_name>
         </dynamic_text>

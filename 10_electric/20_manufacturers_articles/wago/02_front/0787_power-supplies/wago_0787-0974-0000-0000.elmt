@@ -31,7 +31,7 @@ License:see https://qelectrotech.org/wiki_new/doc/elements_license</informations
         <polygon y17="-7.99" x7="113.97" x15="113.47" y14="-7.97" x11="114.73" y8="-18.19" y7="-18.43" y20="-9.01" y10="-17.32" x12="114.56" x18="104.5" y13="-8.17" y5="-18.55" y6="-18.55" x10="114.73" y11="-9.04" y19="-8.51" x14="113.95" style="line-style:normal;line-weight:thin;filling:black;color:black" x9="114.54" y18="-8.22" y9="-17.92" y15="-7.88" x5="105.23" x4="104.81" y4="-18.4" x2="104.21" x8="114.31" y16="-7.88" x1="104.07" x20="104.07" x6="113.51" y1="-17.35" x19="104.25" y2="-17.83" y12="-8.46" y3="-18.16" x16="105.33" antialias="false" x3="104.5" x13="114.29" x17="104.83"/>
         <polygon x2="111.04" x4="107.74" style="line-style:normal;line-weight:thin;filling:white;color:black" y4="-11.58" y1="-14.85" x1="107.74" x3="111.04" y2="-14.85" antialias="false" y3="-11.58"/>
         <polygon x2="87.09" style="line-style:normal;line-weight:thin;filling:white;color:black" y1="-11.58" x1="84.47" x3="87.09" y2="-11.58" antialias="false" y3="-15.61"/>
-        <dynamic_text font="Sans Serif,6,-1,5,25,0,0,0,0,0" y="6" Halignment="AlignRight" Valignment="AlignBottom" z="11" uuid="{6fa29beb-e5ce-4a40-b49a-ca12beec4cb4}" keep_visual_rotation="true" text_from="ElementInfo" x="115" frame="false" text_width="-1" rotation="0">
+        <dynamic_text font="Liberation Sans,6,-1,5,25,0,0,0,0,0,Regular" y="6" Halignment="AlignRight" Valignment="AlignBottom" z="11" uuid="{6fa29beb-e5ce-4a40-b49a-ca12beec4cb4}" keep_visual_rotation="true" text_from="ElementInfo" x="115" frame="false" text_width="-1" rotation="0">
             <text></text>
             <info_name>label</info_name>
         </dynamic_text>

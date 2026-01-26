@@ -1,6 +1,7 @@
 <qet-directory>
     <names>
         <name lang="cs">Pohony Sinamics</name>
+        <name lang="de">Sinamics Antriebe</name>
         <name lang="en">Sinamics drives</name>
     </names>
 </qet-directory>
