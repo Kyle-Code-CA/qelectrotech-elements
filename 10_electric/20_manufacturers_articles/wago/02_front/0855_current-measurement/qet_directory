@@ -3,5 +3,7 @@
         <name lang="de">Zubehör Strommessung</name>
         <name lang="en">Accessories Current-Measurement</name>
         <name lang="fr">Accessoires mesure de courant</name>
+        <name lang="ko">전류 측정 보조 장치</name>
+
     </names>
 </qet-directory>
