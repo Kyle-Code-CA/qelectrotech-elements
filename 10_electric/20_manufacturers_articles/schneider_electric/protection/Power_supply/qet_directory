@@ -3,5 +3,6 @@
         <name lang="cs">Napájecí zdroje</name>
         <name lang="en">Power supply</name>
         <name lang="fr">Alimentation</name>
+        <name lang="ko">전원 공급 장치</name>
     </names>
 </qet-directory>

@@ -9,6 +9,7 @@
         <name lang="fr">Eaux</name>
         <name lang="it">Acqua</name>
         <name lang="ja">水</name>
+        <name lang="ko">수도</name>
         <name lang="pl">Instalacje wodne</name>
     </names>
 </qet-directory>

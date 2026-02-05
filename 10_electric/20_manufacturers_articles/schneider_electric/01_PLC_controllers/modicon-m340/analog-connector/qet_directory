@@ -3,5 +3,6 @@
         <name lang="cs">Analogové vstupy</name>
         <name lang="en">Analog connector</name>
         <name lang="fr">Connecteur analogique</name>
+        <name lang="ko">아날로그 커넥터</name>
     </names>
 </qet-directory>

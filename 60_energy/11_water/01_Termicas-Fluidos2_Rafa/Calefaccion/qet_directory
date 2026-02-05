@@ -6,5 +6,6 @@
         <name lang="es">Calefacción</name>
         <name lang="fr">Chauffage</name>
         <name lang="it">Riscaldamento</name>
+        <name lang="ko">난방</name>
     </names>
 </qet-directory>

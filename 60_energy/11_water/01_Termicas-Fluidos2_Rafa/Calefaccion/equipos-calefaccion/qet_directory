@@ -6,5 +6,7 @@
         <name lang="es">Equipos de calefacción</name>
         <name lang="fr">Matériel de chauffage</name>
         <name lang="it">Impianti di riscaldamento</name>
+        <name lang="ko">난방 설비</name>
+
     </names>
 </qet-directory>

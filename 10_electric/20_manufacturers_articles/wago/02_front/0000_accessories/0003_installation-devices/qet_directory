@@ -4,5 +4,6 @@
         <name lang="de">Installations-Geräte</name>
         <name lang="en">Installation-devices</name>
         <name lang="fr">Equipements d'installation</name>
+        <name lang="ko">설치 기기</name>
     </names>
 </qet-directory>

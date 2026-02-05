@@ -4,5 +4,6 @@
         <name lang="de">Schaltplan-Symbole</name>
         <name lang="en">Schematic</name>
         <name lang="fr">Schematic</name>
+        <name lang="ko">회로도</name>
     </names>
 </qet-directory>

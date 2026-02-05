@@ -3,5 +3,6 @@
         <name lang="cs">Servomotory</name>
         <name lang="de">Servomotoren</name>
         <name lang="fr">Servo-moteurs</name>
+        <name lang="ko">서보모터</name>
     </names>
 </qet-directory>

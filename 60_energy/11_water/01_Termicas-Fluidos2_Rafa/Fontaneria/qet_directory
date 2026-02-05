@@ -5,5 +5,6 @@
         <name lang="en">Water installations</name>
         <name lang="es">Instalaciones de agua</name>
         <name lang="fr">Equipement de l'eau</name>
+        <name lang="ko">급수 설비</name>
     </names>
 </qet-directory>
